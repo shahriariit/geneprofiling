@@ -1,0 +1,8 @@
+library(readxl)
+parkinsondata <- read_excel("Dataset/geodata.xlsx", sheet = "Parkinson")
+autismdata <- read_excel("Dataset/geodata.xlsx", sheet = "Autism")
+alzhemierdata <- read_excel("Dataset/geodata.xlsx", sheet = "Alzhemier")
+huntingtondata <- read_excel("Dataset/geodata.xlsx", sheet = "Parkinson")
+chronicfatiguedata <- read_excel("Dataset/geodata.xlsx", sheet = "Chronicfatigue")
+alsdata <- read_excel("Dataset/geodata.xlsx", sheet = "ALS")
+dm2data <- read_excel("Dataset/geodata.xlsx", sheet = "DM2")
