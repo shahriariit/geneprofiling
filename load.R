@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 library(readxl)    
 read_excel_allsheets <- function(filename, tibble = FALSE) {
   sheets <- readxl::excel_sheets(filename)
@@ -9,13 +8,4 @@ read_excel_allsheets <- function(filename, tibble = FALSE) {
 }
 
 mysheets <- read_excel_allsheets("geodata.xlsx")
-=======
-library(readxl)
-parkinsondata <- read_excel("Dataset/geodata.xlsx", sheet = "Parkinson")
-autismdata <- read_excel("Dataset/geodata.xlsx", sheet = "Autism")
-alzhemierdata <- read_excel("Dataset/geodata.xlsx", sheet = "Alzhemier")
-huntingtondata <- read_excel("Dataset/geodata.xlsx", sheet = "Parkinson")
-chronicfatiguedata <- read_excel("Dataset/geodata.xlsx", sheet = "Chronicfatigue")
-alsdata <- read_excel("Dataset/geodata.xlsx", sheet = "ALS")
-dm2data <- read_excel("Dataset/geodata.xlsx", sheet = "DM2")
->>>>>>> fd4d85c76b9ab407d8b87c4600cff1db61a3408c
+
