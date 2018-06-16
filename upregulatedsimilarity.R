@@ -2,10 +2,6 @@ f8 <- function(x,y) {
   t(x)[t(x) %in% t(y)]
 }
 
-f8(myupuni1,myupuni4)
-f8(myupuni1,myupuni5)
-f8(myupuni1,myupuni6)
-f8(myupuni1,myupuni7)
 
 f8(myupuni4,myupuni5)
 f8(myupuni4,myupuni6)
