@@ -1,17 +1,43 @@
-f7 <- function(x,y) {
-  t(x)[t(x) %in% t(y)]
-}
-
+f7(mydnuni1,mydnuni2)
+f7(mydnuni1,mydnuni3)
 f7(mydnuni1,mydnuni4)
 f7(mydnuni1,mydnuni5)
 f7(mydnuni1,mydnuni6)
 f7(mydnuni1,mydnuni7)
+f7(mydnuni1,mydnuni8)
+f7(mydnuni1,mydnuni9)
+
+f7(mydnuni2,mydnuni3)
+f7(mydnuni2,mydnuni4)
+f7(mydnuni2,mydnuni5)
+f7(mydnuni2,mydnuni6)
+f7(mydnuni2,mydnuni7)
+f7(mydnuni2,mydnuni8)
+f7(mydnuni2,mydnuni9)
+
+f7(mydnuni3,mydnuni4)
+f7(mydnuni3,mydnuni5)
+f7(mydnuni3,mydnuni6)
+f7(mydnuni3,mydnuni7)
+f7(mydnuni3,mydnuni8)
+f7(mydnuni3,mydnuni9)
 
 f7(mydnuni4,mydnuni5)
 f7(mydnuni4,mydnuni6)
 f7(mydnuni4,mydnuni7)
+f7(mydnuni4,mydnuni8)
+f7(mydnuni4,mydnuni9)
 
 f7(mydnuni5,mydnuni6)
 f7(mydnuni5,mydnuni7)
+f7(mydnuni5,mydnuni8)
+f7(mydnuni5,mydnuni9)
 
 f7(mydnuni6,mydnuni7)
+f7(mydnuni6,mydnuni8)
+f7(mydnuni6,mydnuni9)
+
+f7(mydnuni7,mydnuni8)
+f7(mydnuni7,mydnuni9)
+
+f7(mydnuni8,mydnuni9)
