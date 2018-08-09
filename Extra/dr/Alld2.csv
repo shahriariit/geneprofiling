@@ -1,0 +1,373 @@
+DieaseName,Link,GeneSymbol
+Parkinson's,1,BANK1
+Parkinson's,1,CD24
+Parkinson's,1,CXCR4
+Parkinson's,1,LARGE1
+Parkinson's,1,VNN2
+Parkinson's,1,BLK
+Parkinson's,1,FBXO32
+Parkinson's,1,RALGPS2
+Parkinson's,1,SKIL
+Parkinson's,1,CLEC12A
+Parkinson's,1,TSC22D3
+Parkinson's,1,CLK1
+Parkinson's,1,ABCG1
+Parkinson's,1,ALDH8A1
+Parkinson's,1,RTN4
+Parkinson's,1,ERO1B
+Parkinson's,1,SHISA2
+Parkinson's,1,ARID1B
+Parkinson's,1,OR6A2
+Parkinson's,1,SLC6A13
+Parkinson's,1,N4BP2L2
+Parkinson's,1,TNFRSF17
+Parkinson's,1,ATF2
+Parkinson's,1,CFL2
+Parkinson's,1,GNB5
+Parkinson's,1,YTHDC1
+Parkinson's,1,ZC3H14
+Parkinson's,1,RUFY2
+Parkinson's,1,LRRC37A3
+Parkinson's,1,EBF1
+Alzhemer,1,TGFB1I1
+Alzhemer,1,HIBADH
+Alzhemer,1,YME1L1
+Alzhemer,1,CYBB
+Alzhemer,1,VIM
+Alzhemer,1,GSN
+Alzhemer,1,CSGALNACT1
+Alzhemer,1,MLH3
+Alzhemer,1,CD44
+Alzhemer,1,RBL1
+Alzhemer,1,SMAD4
+Alzhemer,1,GATA4
+Alzhemer,1,WHAMMP2///WHAMMP3
+Alzhemer,1,CDKAL1
+Alzhemer,1,MYLK
+Alzhemer,1,PPA2
+Alzhemer,1,RGS1
+Alzhemer,1,ELL2
+Alzhemer,1,DOK7
+Alzhemer,1,ITPKB
+Alzhemer,1,DSE
+Alzhemer,1,ARSG
+Alzhemer,1,LRRC70///IPO11
+Alzhemer,1,DLEU2
+Alzhemer,1,DNAJC27
+Alzhemer,1,SOCS3
+Alzhemer,1,ARID2
+Alzhemer,1,LCP2
+Alzhemer,1,CLASP2
+Alzhemer,1,EHD4
+Alzhemer,1,ANKUB1
+Alzhemer,1,MYL12A
+Alzhemer,1,SFMBT2
+Alzhemer,1,TCTE3
+Alzhemer,1,ABCC3
+Alzhemer,1,XIST
+Alzhemer,1,LRRFIP1
+Alzhemer,1,NAIP
+Alzhemer,1,MAST2
+Alzhemer,1,UROC1
+Alzhemer,1,PHLDB2
+Alzhemer,1,PRKRA
+Alzhemer,1,UTRN
+Alzhemer,1,IL6ST
+Alzhemer,1,LOC100507472///PCSK6
+Alzhemer,1,MFAP3L
+Alzhemer,1,RNU6-501P
+Alzhemer,1,FBXO32
+Alzhemer,1,EDRF1
+Alzhemer,1,PDCD4-AS1
+Alzhemer,1,HECTD4
+Alzhemer,1,NAP1L4
+Alzhemer,1,MEX3C
+Alzhemer,1,HIST1H4H
+Alzhemer,1,CBY1
+Alzhemer,1,NID1
+Alzhemer,1,CCDC88C
+Alzhemer,1,MYBL1
+Alzhemer,1,GLIS3
+Alzhemer,1,CLCN4
+Alzhemer,1,IFNGR1
+Alzhemer,1,ADAMTS12
+Alzhemer,1,VTI1A
+Alzhemer,1,ART1
+Alzhemer,1,KALRN
+Alzhemer,1,EBF1
+Alzhemer,1,STON2
+Alzhemer,1,FBXL20
+Alzhemer,1,SLC9A8
+Alzhemer,1,DOCK9
+Alzhemer,1,ERICH1
+Alzhemer,1,DOCK1
+Alzhemer,1,MAPT-AS1
+Alzhemer,1,ANXA2R
+Alzhemer,1,ELAVL4
+Alzhemer,1,CLDN23
+Alzhemer,1,HFE
+Alzhemer,1,ZNF532
+Alzhemer,1,ATG16L1
+Alzhemer,1,HIPK1
+Alzhemer,1,UVSSA
+Alzhemer,1,NFIB
+Alzhemer,1,LEPROT///LEPR
+Alzhemer,1,FCN1
+Alzhemer,1,AREG
+Alzhemer,1,IKZF4
+Alzhemer,1,ETV6
+Alzhemer,1,LOC100288637///ARHGAP11B
+Huntington,1,LPP
+Huntington,1,RC3H2
+Huntington,1,NKTR
+Huntington,1,CLK1
+Huntington,1,N4BP2L2
+Huntington,1,RBM39
+Huntington,1,SMCHD1
+Huntington,1,CSNK1A1
+Huntington,1,ZNF226
+Huntington,1,HNRNPD
+Huntington,1,LRRFIP1
+Huntington,1,DMXL2
+Huntington,1,MIR612///NEAT1
+Huntington,1,FRYL
+Huntington,1,UGP2
+Huntington,1,CALD1
+Huntington,1,SLC35A3
+Huntington,1,BRWD1
+Huntington,1,SREK1
+Huntington,1,ATM
+Huntington,1,THAP2
+Huntington,1,CREBRF
+Huntington,1,PIK3C3
+Huntington,1,PRKD3
+Huntington,1,CREBZF
+Huntington,1,ZNF638
+Huntington,1,RAB18
+Huntington,1,ZNF638-IT1///ZNF638
+Huntington,1,ZBTB20
+Huntington,1,RB1CC1
+Huntington,1,PCMTD1
+Huntington,1,ZNF117
+Huntington,1,FAM13A
+Huntington,1,ARID4B
+Huntington,1,USP34
+Huntington,1,RFC1
+Huntington,1,MIR4680///PDCD4
+Huntington,1,PNISR
+Huntington,1,JMJD1C
+Huntington,1,SCAF11
+Huntington,1,SC5D
+Huntington,1,ZNF451
+Huntington,1,RGPD6///RGPD8///RGPD3///RGPD4///RGPD5
+Huntington,1,SH3BGRL
+Huntington,1,DENND1B
+Huntington,1,LRIG2
+Huntington,1,PNPLA8
+Huntington,1,DNAJC27
+Huntington,1,ZDHHC21
+Huntington,1,YES1
+Huntington,1,ARHGAP5
+Huntington,1,BLZF1
+Huntington,1,TRPC1
+Huntington,1,EDRF1
+Huntington,1,TRIM33
+Huntington,1,SMAD4
+Huntington,1,FBXO3
+Huntington,1,SGTB
+Huntington,1,PCNX1
+Huntington,1,RAPGEF6
+Huntington,1,MLH3
+Huntington,1,RANBP2
+Huntington,1,ZFYVE16
+Huntington,1,ICE2
+Huntington,1,PGAP1
+Huntington,1,KIAA1109
+Huntington,1,PIK3C2A
+Huntington,1,AKAP9
+Huntington,1,BCLAF1
+Huntington,1,MBNL2
+Huntington,1,SESTD1
+Huntington,1,LEPROT///LEPR
+Huntington,1,ANKRD28
+Huntington,1,MBNL1
+Huntington,1,MALAT1
+Huntington,1,EPG5
+Huntington,1,DCUN1D1
+Huntington,1,ZC3H14
+Huntington,1,STRN
+Huntington,1,METTL14
+Huntington,1,ZNF700
+Huntington,1,LOC100506639///ZNF131
+Huntington,1,MORF4L2
+Huntington,1,NAV3
+Huntington,1,SFT2D3///WDR33
+Huntington,1,DDR2
+Huntington,1,CTNNB1
+Huntington,1,ADD3
+Huntington,1,ASPH
+Huntington,1,ANKRD44
+Huntington,1,MED13L
+Huntington,1,VPS13C
+Huntington,1,IFI44
+Huntington,1,GNAQ
+Huntington,1,IL6ST
+Huntington,1,SFPQ
+Huntington,1,UBE2D3
+Huntington,1,PPP4R3B
+Huntington,1,MED6
+Huntington,1,DR1
+Huntington,1,SCML1
+Huntington,1,TMCC1
+Huntington,1,DICER1
+Huntington,1,HNRNPA1
+Huntington,1,PPWD1
+Huntington,1,43166
+Huntington,1,RBM25
+Huntington,1,NUP58
+Huntington,1,RNF217
+Huntington,1,SLFN5
+Huntington,1,CLIP1
+Huntington,1,ATF2
+Huntington,1,PHACTR2
+Huntington,1,JMY
+Huntington,1,ZBTB1
+Huntington,1,CHD1
+Huntington,1,MAN2A1
+Huntington,1,CNOT7
+Huntington,1,FASTKD2
+Huntington,1,RBBP6
+Huntington,1,WHAMMP2///WHAMMP3
+Huntington,1,RUFY2
+Huntington,1,SBF2
+Huntington,1,GOLGA4
+Huntington,1,INO80D
+Huntington,1,KLHL24
+Huntington,1,LOC100506123///LOC100506076
+Huntington,1,KLF12
+Huntington,1,HAUS3
+Huntington,1,ZMYM2
+Huntington,1,MYL12A
+Huntington,1,STXBP3
+Huntington,1,SRSF3
+Huntington,1,TBRG1
+Huntington,1,ATAD2B
+Huntington,1,KRR1
+Huntington,1,LOC100131541
+Huntington,1,CUL3
+Huntington,1,DLEU2
+Huntington,1,FNBP1
+Huntington,1,DIAPH2
+Huntington,1,PPP1CB
+Huntington,1,RALGPS2
+Huntington,1,ERCC6L2
+Huntington,1,TRA2A
+Huntington,1,ATAD2
+Huntington,1,CCDC91
+Huntington,1,UTRN
+Huntington,1,STON1
+Huntington,1,PRKAA1
+Huntington,1,ZDBF2
+Huntington,1,EML4
+Huntington,1,SKIL
+Huntington,1,TCF7L2
+Huntington,1,LOC401261
+Huntington,1,TNRC6B
+Huntington,1,VIM
+Huntington,1,TRIP12
+Huntington,1,ADAM9
+Huntington,1,FBXO32
+Huntington,1,RTN4
+Huntington,1,ARL5B
+Huntington,1,ARID2
+Huntington,1,ARHGAP18
+Huntington,1,FCF1
+Huntington,1,NSUN6
+Huntington,1,PSMD6-AS2
+Huntington,1,MGEA5
+Huntington,1,SRSF4
+Huntington,1,PAPD4
+Huntington,1,NAV2
+Huntington,1,MKNK1
+Huntington,1,INPP4B
+Huntington,1,DKFZP586I1420
+Huntington,1,PDK4
+Huntington,1,GSAP
+Huntington,1,RORA
+Huntington,1,VCAN
+Huntington,1,NDUFA5
+Huntington,1,43165
+Huntington,1,SP100
+Huntington,1,ABCA1
+Huntington,1,HIST1H2BC
+Huntington,1,C2orf88
+Huntington,1,PWAR6
+Huntington,1,MEG3
+Huntington,1,TAF15
+Huntington,1,SVIL
+Huntington,1,ACVR2A
+Huntington,1,CD24
+Huntington,1,LPAR6
+Huntington,1,SCG5
+Huntington,1,WDFY2
+Huntington,1,TFDP2
+Huntington,1,MYBL1
+Huntington,1,ZBTB10
+Huntington,1,CPXM2
+Lou Gehrig's,1,MAPK6
+Lou Gehrig's,1,ANK3
+Lou Gehrig's,1,MBP
+Lou Gehrig's,1,DDX6
+Lou Gehrig's,1,CR1
+Lou Gehrig's,1,RBL1
+Lou Gehrig's,1,PDLIM1
+Lou Gehrig's,1,ZNF185
+Lou Gehrig's,1,CREM
+Lou Gehrig's,1,IDS
+Lou Gehrig's,1,PPP3CA
+Lou Gehrig's,1,GNAQ
+Lou Gehrig's,1,LOC101930404///SNORD116-28///SNORD115-26///SNORD115-13///SNORD115-7///SNORD116-22///SNORD116-4///PWARSN///SNORD107///SNRPN///IPW
+Lou Gehrig's,1,ETV4
+Lou Gehrig's,1,TXK
+Lou Gehrig's,1,DNAJC7
+Lou Gehrig's,1,ENTPD1
+Lou Gehrig's,1,PPIL2
+Lou Gehrig's,1,P2RY10
+Lou Gehrig's,1,PDZK1IP1
+Lou Gehrig's,1,ACTG1P4///AMY2B///AMY2A///AMY1C///AMY1B///AMY1A
+Lou Gehrig's,1,CRISP3
+Lou Gehrig's,1,LOC100506639///ZNF131
+Lou Gehrig's,1,NR4A3
+Lou Gehrig's,1,C5
+Lou Gehrig's,1,GRM8
+Lou Gehrig's,1,SNRK
+Lou Gehrig's,1,KRAS
+Lou Gehrig's,1,NEO1
+Cerebral Palsy,1,RORA
+Cerebral Palsy,1,DNAJC7
+Cerebral Palsy,1,BCLAF1
+Cerebral Palsy,1,TAF15
+Cerebral Palsy,1,IL6ST
+Cerebral Palsy,1,AKT2
+Cerebral Palsy,1,AKAP13
+Cerebral Palsy,1,MBNL2
+Cerebral Palsy,1,MBNL1
+Cerebral Palsy,1,PIK3CB
+Cerebral Palsy,1,GNAL
+Cerebral Palsy,1,LPP
+Cerebral Palsy,1,TRIO
+Cerebral Palsy,1,MIR612///NEAT1
+Cerebral Palsy,1,ACACB
+Cerebral Palsy,1,UTRN
+Cerebral Palsy,1,DDX6
+Cerebral Palsy,1,VCL
+Cerebral Palsy,1,EPHA4
+Cerebral Palsy,1,ADAM12
+Cerebral Palsy,1,RAPGEF1
+Cerebral Palsy,1,PDE4D
+Cerebral Palsy,1,PCDH11Y///PCDH11X
+Cerebral Palsy,1,NFIB
+Cerebral Palsy,1,PDE3A
+Cerebral Palsy,1,WISP2
+Cerebral Palsy,1,LAMA2
+Cerebral Palsy,1,TRIM58
